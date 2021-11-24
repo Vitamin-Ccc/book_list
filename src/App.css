@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.book-container {
+  padding: 5px;
+  margin: 20px;
+  background: #6a8142;
+  color: #abdbe3;
+}
+
+body {
+  color: #465658;
+  background-color: #e8f5d2;
+}
+
+.book-form {
+  border: 5px solid;
+  margin: 20px;
+  padding: 20px;
+}
+
+.book-list{
+  font-size: 30px;
+  font-weight: 300;
+  font-variant: small-caps
+}
+
+.book-form-h1{
+  font-variant: small-caps
+}
